@@ -1,4 +1,3 @@
-```md
 # Grader Task
 
 A simple AI-powered grading service that:
