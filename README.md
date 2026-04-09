@@ -115,7 +115,7 @@ Use the `/grade` endpoint to upload a PDF.
 
 ## API Endpoint
 
-### `POST /grade-pdf`
+### `POST /grade`
 
 Uploads a PDF, extracts questions and answers, grades each answer, and returns the results.
 
